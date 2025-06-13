@@ -68,8 +68,8 @@ CUSTOM MODEL RESULTS
 ECR Strategy                  | Detection Module       | Precision(1) | Recall(1) | F1-score(1)
 ----------------------------- |------------------------|--------------|-----------|-------------
 Emotion + Post Concatenation  | BiLSTM                 |     0.75     |   0.58    |     0.65
-+ Standardized Emotion Vectors| BiLSTM                 |     0.78     |   0.63    |     0.70
-+ Residual Dot Product Fusion | BiLSTM                 |     0.81     |   0.57    |     0.67
+Standardized Emotion Vectors  | BiLSTM                 |     0.78     |   0.63    |     0.70
+Residual Dot Product Fusion   | BiLSTM                 |     0.81     |   0.57    |     0.67
 Final Fusion + Hybrid Model   | CNN + BiLSTM Classifier|    0.83      |   0.55    |     0.66
 
 TECHNOLOGIES USED
