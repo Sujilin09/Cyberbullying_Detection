@@ -1,4 +1,4 @@
-#CYBERBULLYING DETECTION USING A CUSTOM DECEN-INSPIRED DEEP LEARNING APPROACH
+CYBERBULLYING DETECTION USING A CUSTOM DECEN-INSPIRED DEEP LEARNING APPROACH
 ==============================================================================
 
 This repository presents a deep learning pipeline for cyberbullying detection,
